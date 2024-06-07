@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Calistoga', sans-serif;
+}
+
+.text-h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    color: brown;
+}
+
+.text-h1:hover {
+    color: crimson;
+}
