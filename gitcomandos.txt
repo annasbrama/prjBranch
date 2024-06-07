@@ -1,0 +1,13 @@
+/////git comandos/////
+
+git branch (nome da branch) => para criar uma nova branch
+
+git branch => para ver todas as branchas ****a branch que estiver com um (*) ao lado será a branch a estar sendo utilizada
+
+git branch -D => para deletar a branch
+
+git checkout (nome da branch) => para acessar a branch necessária
+
+git merge => para integrar com a master/main
+
+****não é necessário estar na branch para fazer um push para main
