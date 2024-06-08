@@ -16,6 +16,14 @@
     color: crimson;
 }
 
+
+.text-p {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-top: 25px;
+    color: rebeccapurple;
+
 .galera {
     font-family: "Dancing Script", cursive;
     font-size: 2rem;
