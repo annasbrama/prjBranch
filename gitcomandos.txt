@@ -1,0 +1,21 @@
+/////git comandos/////
+
+git branch (nome da branch) => para criar uma nova branch;
+
+git branch => para ver todas as branchas ****a branch que estiver com um (*) ao lado será a branch a estar sendo utilizada;
+
+git branch -D (nome da branch) => para deletar a branch;
+
+git checkout (nome da branch) => para acessar a branch necessária;
+
+git merge (nome da branch) => para integrar com a master/main;
+
+****não é necessário estar na branch para fazer um push para main;
+
+git restore ./(nome da pasta)/(nome do arquivo) => voltar uma ação não commitada nem addicionada ** caso queira voltar varios arquivos só adicionar um (.), como o add;
+
+git restore --staged ./(nome da pasta)/(nome do arquivo) => voltar uma ação adicionada(staged) para uma ação não adicionada ** caso queira voltar varios arquivos só adicionar um (.), como o add;
+
+git log => "histórico" de commits // git log --oneline;
+
+git diff (codigo do commit/add) (codigo do commit/add) => diferença entre commits/adds;
